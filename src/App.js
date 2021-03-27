@@ -10,6 +10,7 @@ function App()
      <div className='menu'>
         <h1 className='title'> Disney Cartoons</h1> 
           < img src ="./pictures/image2.jpg"alt=""/>
+     <br />
            <img clasName="lionpsic" src ="./images/image1.jpg"alt=""/>
              <video className="disneyintro" width='320' height="240" controls/>
                <source src='https://www.youtube.com/watch?v=tmndjvzfNA8'/>
